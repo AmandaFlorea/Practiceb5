@@ -31,7 +31,7 @@ public class PracticeOne {
 	}
 	
 
-	public static void getName(String name) {
+	public static void getName(int name) {
 		name = "Amanda";
 		name = "Florea";
 		System.out.println(name);
@@ -43,7 +43,7 @@ public class PracticeOne {
 	}
 
 	//new add 
-	public static void mulNum(int a, int b, int c) {
+	public static void mulNum(int a, double b, int c) {
 		System.out.println(a * b *c );
 	}
 
@@ -57,7 +57,7 @@ public class PracticeOne {
 	public static void addNumber(int a, int b) {
 		System.out.println(a + b);
 		System.out.println("this gonna break the project");
-		System.out.println("we are going to break the code again");
 	}
+	
 }
 

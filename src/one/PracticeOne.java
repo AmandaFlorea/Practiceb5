@@ -41,7 +41,6 @@ public class PracticeOne {
 		System.out.println(a / b);
 		System.out.println(b /a);
 	}
-
 	
 	public static void multiply(int a, int b) {
 		System.out.println(a*b);
@@ -49,6 +48,6 @@ public class PracticeOne {
 	}
 	public static void addNumber(int a, int b) {
 		System.out.println(a + b);
+		System.out.println("this gonna break the project");
 	}
-
 }

@@ -31,7 +31,7 @@ public class PracticeOne {
 	}
 	
 
-	public static void getName(String name) {
+	public static void getName(int name) {
 		name = "Amanda";
 		name = "Florea";
 		System.out.println(name);
@@ -66,5 +66,6 @@ public class PracticeOne {
 	}
 
 	}
+	
 }
 

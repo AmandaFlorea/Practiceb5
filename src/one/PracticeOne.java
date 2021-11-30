@@ -10,12 +10,14 @@ public class PracticeOne {
 		System.out.println("this will be conflict");
 
 		System.out.println("thring to get conflict");
+		
+		addNum(15,20);
+		subNum(50,30);
+		modNum(60,2);
 
 	}
 	
 	public static void addNum(int a, int b) {
-		a = 15;
-		b = 20;
 		System.out.println(a + b);
 	}
 	public static void getPractice(String name) {
@@ -27,8 +29,6 @@ public class PracticeOne {
 	}
 
 	public static void subNum(int a, int b) {
-		a = 50;
-		b = 50;
 		System.out.println(a - b);
 
 		System.out.println("Waheeda");

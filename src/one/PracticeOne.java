@@ -31,7 +31,7 @@ public class PracticeOne {
 	}
 	
 
-	public static void getName(int name) {
+	public static void getName(String name) {
 		name = "Amanda";
 		name = "Florea";
 		System.out.println(name);
@@ -43,7 +43,7 @@ public class PracticeOne {
 	}
 
 	//new add 
-	public static void mulNum(int a, double b, int c) {
+	public static void mulNum(int a, int b, int c) {
 		System.out.println(a * b *c );
 	}
 

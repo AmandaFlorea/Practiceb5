@@ -25,6 +25,8 @@ public class PracticeOne {
 	}
 
 	public static void subNum(int a, int b) {
+		a = 50;
+		b = 50;
 		System.out.println(a - b);
 
 		System.out.println("Waheeda");

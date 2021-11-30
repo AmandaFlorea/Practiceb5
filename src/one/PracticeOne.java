@@ -43,7 +43,6 @@ public class PracticeOne {
 	
 	public static void multiply(int a, int b) {
 		System.out.println(a*b);
-		System.out.println(" conflict ");
 		
 	}
 	public static void addNumber(int a, int b) {
@@ -58,4 +57,8 @@ public class PracticeOne {
 		System.out.println("Trying to make a conflict");
 	}
 
+		System.out.println("this gonna break the project");
+
+	}
 }
+

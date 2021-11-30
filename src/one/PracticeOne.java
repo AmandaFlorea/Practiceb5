@@ -22,4 +22,9 @@ public class PracticeOne {
 	public static void divNum(int a, int b) {
 		System.out.println(a / b);
 	}
+	
+	public static void multiply(int a, int b) {
+		System.out.println(a*b);
+		
+	}
 }

@@ -33,11 +33,13 @@ public class PracticeOne {
 
 	public static void getName(String name) {
 		name = "Amanda";
+		name = "Florea";
 		System.out.println(name);
 	}
 
 	public static void divNum(int a, int b) {
 		System.out.println(a / b);
+		System.out.println(b /a);
 	}
 
 	

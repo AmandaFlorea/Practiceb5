@@ -6,6 +6,7 @@ public class PracticeOne {
 		
 		System.out.println("trying to find conflict");
 		System.out.println("Sajia");
+		System.out.println("thring to get conflict");
 	}
 	
 	public static void addNum(int a, int b) {

@@ -50,6 +50,8 @@ public class PracticeOne {
 		System.out.println(a + b);
 		// conflict please 
 		// trying for conflict
+		System.out.println(" More pratice to have conflict");
+
 	}
 
 }

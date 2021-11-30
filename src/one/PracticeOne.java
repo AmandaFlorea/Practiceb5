@@ -6,7 +6,7 @@ public class PracticeOne {
 		
 		System.out.println("trying to find conflict");
 		System.out.println("Sajia");
-		System.out.println("Trying conflict FS");
+
 		System.out.println("this will be conflict");
 
 		System.out.println("thring to get conflict");
@@ -29,11 +29,14 @@ public class PracticeOne {
 		
 		// want conflict for practice
 	}
-	
 
 	public static void getName(int name) {
 		//name = "Amanda";
 		//name = "Florea";
+	}
+	public static void getName(String name) {
+		name = "Amanda";
+		name = "Florea";
 		System.out.println(name);
 	}
 
@@ -42,13 +45,6 @@ public class PracticeOne {
 		System.out.println(b /a);
 	}
 
-	//new add 
-	public static void mulNum(int a, double b, int c) {
-		System.out.println(a * b *c );
-	}
-
-
-
 	
 	public static void multiply(int a, int b) {
 		System.out.println(a*b);
@@ -56,6 +52,9 @@ public class PracticeOne {
 	}
 	public static void addNumber(int a, int b) {
 		System.out.println(a + b);
+		// conflict please 
+	
+		System.out.println("Trying to make a conflict");
 
 		// conflict please 
 		// trying for conflict
@@ -63,8 +62,20 @@ public class PracticeOne {
 
 	}
 
+		// trying for conflict
+
+	
+	   private void sysout() {
+		// TODO Auto-generated method stub
 
 	}
+
+	public static void addName(String name) {
+		System.out.println("Sajia Karim");
+		
+	}
+
 	
 
+}
 

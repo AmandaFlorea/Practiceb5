@@ -6,7 +6,7 @@ public class PracticeOne {
 		
 		System.out.println("trying to find conflict");
 		System.out.println("Sajia");
-
+		System.out.println("Trying conflict FS");
 		System.out.println("this will be conflict");
 
 		System.out.println("thring to get conflict");
@@ -31,27 +31,40 @@ public class PracticeOne {
 	}
 	
 
-	public static void getName(String name) {
-		name = "Amanda";
+	public static void getName(int name) {
+		//name = "Amanda";
+		//name = "Florea";
 		System.out.println(name);
 	}
 
 	public static void divNum(int a, int b) {
 		System.out.println(a / b);
+		System.out.println(b /a);
 	}
+
+	//new add 
+	public static void mulNum(int a, double b, int c) {
+		System.out.println(a * b *c );
+	}
+
+
 
 	
 	public static void multiply(int a, int b) {
 		System.out.println(a*b);
-		System.out.println(" conflict ");
 		
 	}
 	public static void addNumber(int a, int b) {
 		System.out.println(a + b);
+
 		// conflict please 
 		// trying for conflict
 		System.out.println(" More pratice to have conflict");
 
 	}
 
-}
+
+	}
+	
+
+

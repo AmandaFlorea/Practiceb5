@@ -31,7 +31,7 @@ public class PracticeOne {
 	}
 	
 
-	public static void getName(int name) {
+	public static void getName(String name) {
 		name = "Amanda";
 		name = "Florea";
 		System.out.println(name);
@@ -60,10 +60,16 @@ public class PracticeOne {
 	}
 
 		System.out.println("this gonna break the project");
+
 	   private void sysout() {
 		// TODO Auto-generated method stub
 
 	}
+
+
+		System.out.println("we are going to break the code again");
+		System.out.println("this is going to break again");
+
 
 	}
 	

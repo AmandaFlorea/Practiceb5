@@ -87,6 +87,10 @@ public class PracticeOne {
 		System.out.println("Conflict Practice");
 		System.out.println("Conflict Practice");
 	}
+	public static void addab(int a, int b) {
+		System.out.println(a+b);
+		
+	}
 
 	
 

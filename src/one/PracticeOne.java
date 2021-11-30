@@ -49,6 +49,8 @@ public class PracticeOne {
 	public static void addNumber(int a, int b) {
 		System.out.println(a + b);
 		// conflict please 
+	
+		System.out.println("Trying to make a conflict");
 	}
 
 }

@@ -71,6 +71,10 @@ public class PracticeOne {
 		System.out.println("Sajia Karim");
 		System.out.println("Hello from Mihail");
 	}
+	
+	public static void random() {
+		System.out.println("random method");
+	}
 
 	
 

@@ -59,19 +59,17 @@ public class PracticeOne {
 		System.out.println("Trying to make a conflict");
 	}
 
-		System.out.println("this gonna break the project");
-
+		
 	   private void sysout() {
 		// TODO Auto-generated method stub
 
 	}
 
 
-		System.out.println("we are going to break the code again");
-		System.out.println("this is going to break again");
+		
 
 
-	}
+
 
 	public static void addName(String name) {
 		System.out.println("Sajia Karim");

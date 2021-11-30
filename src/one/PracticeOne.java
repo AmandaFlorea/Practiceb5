@@ -46,16 +46,15 @@ public class PracticeOne {
 	}
 
 
+
 	
 	public static void multiply(int a, int b) {
 		System.out.println(a*b);
-		System.out.println(" conflict ");
 		
 	}
 	public static void addNumber(int a, int b) {
 		System.out.println(a + b);
-		// conflict please 
+		System.out.println("this gonna break the project");
 	}
-
 }
 

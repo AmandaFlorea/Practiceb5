@@ -6,7 +6,7 @@ public class PracticeOne {
 		
 		System.out.println("trying to find conflict");
 		System.out.println("Sajia");
-
+		System.out.println("Trying conflict FS");
 		System.out.println("this will be conflict");
 
 		System.out.println("thring to get conflict");
@@ -41,6 +41,14 @@ public class PracticeOne {
 		System.out.println(a / b);
 		System.out.println(b /a);
 	}
+
+	//new add 
+	public static void mulNum(int a, int b, int c) {
+		System.out.println(a * b *c );
+	}
+
+
+
 	
 	public static void multiply(int a, int b) {
 		System.out.println(a*b);
@@ -51,3 +59,4 @@ public class PracticeOne {
 		System.out.println("this gonna break the project");
 	}
 }
+

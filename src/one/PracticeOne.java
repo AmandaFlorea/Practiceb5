@@ -6,5 +6,9 @@ public class PracticeOne {
 		
 		System.out.println("trying to find conflict");
 	}
+	
+	public static void addNum(int a, int b) {
+		System.out.println(a+b);
+	}
 
 }

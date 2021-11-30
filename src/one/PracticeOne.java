@@ -39,22 +39,13 @@ public class PracticeOne {
 	public static void divNum(int a, int b) {
 		System.out.println(a / b);
 	}
-
 	
 	public static void multiply(int a, int b) {
 		System.out.println(a*b);
-		System.out.println(" conflict ");
 		
 	}
 	public static void addNumber(int a, int b) {
 		System.out.println(a + b);
-		// conflict please 
-<<<<<<< HEAD
-	
-		System.out.println("Trying to make a conflict");
-=======
-		// trying for conflict
->>>>>>> branch 'master' of https://github.com/AmandaFlorea/Practiceb5.git
+		System.out.println("this gonna break the project");
 	}
-
 }

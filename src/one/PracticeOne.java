@@ -11,12 +11,22 @@ public class PracticeOne {
 	public static void addNum(int a, int b) {
 		System.out.println(a + b);
 	}
+	public static void getPractice(String name) {
+		System.out.println("Fieruz");
+		
+	}
 
 	public static void subNum(int a, int b) {
 		System.out.println(a - b);
 
 		System.out.println("Waheeda");
 
+	}
+	
+
+	public static void getName(String name) {
+		name = "Amanda";
+		System.out.println(name);
 	}
 
 	public static void divNum(int a, int b) {

@@ -14,6 +14,8 @@ public class PracticeOne {
 	}
 	
 	public static void addNum(int a, int b) {
+		a = 15;
+		b = 20;
 		System.out.println(a + b);
 	}
 	public static void getPractice(String name) {

@@ -43,4 +43,8 @@ public class PracticeOne {
 	public static void addNumber(int a, int b) {
 		System.out.println(a + b);
 	}
+	public static void addName(String name) {
+		System.out.println("Sajia Karim");
+		
+	}
 }

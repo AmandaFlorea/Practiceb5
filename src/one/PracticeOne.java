@@ -10,10 +10,6 @@ public class PracticeOne {
 		System.out.println("this will be conflict");
 
 		System.out.println("thring to get conflict");
-		
-		addNum(15,20);
-		subNum(50,30);
-		modNum(60,2);
 
 	}
 	
@@ -88,6 +84,8 @@ public class PracticeOne {
 	
 	public static void shahid() {
 		System.out.println("random method 2");
+		System.out.println("Conflict Practice");
+		System.out.println("Conflict Practice");
 	}
 
 	

@@ -33,6 +33,7 @@ public class PracticeOne {
 
 	public static void getName(String name) {
 		name = "Amanda";
+		name = "Florea";
 		System.out.println(name);
 	}
 

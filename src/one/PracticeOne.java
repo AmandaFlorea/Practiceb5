@@ -17,11 +17,16 @@ public class PracticeOne {
 		System.out.println(a + b);
 	}
 	public static void getPractice(String name) {
-		System.out.println("Fieruz");
+		System.out.println("Team Batch 5 praticing Fieruz ");
+	}
+	public static void modNum(int a, int b) {
+		System.out.println(a % b);
 		
 	}
 
 	public static void subNum(int a, int b) {
+		a = 50;
+		b = 50;
 		System.out.println(a - b);
 
 		System.out.println("Waheeda");
@@ -72,6 +77,10 @@ public class PracticeOne {
 		System.out.println("Hello from Mihail");
 	int numOne = 22;
 	int numTwo = 11;
+	}
+	
+	public static void random() {
+		System.out.println("random method");
 	}
 
 	

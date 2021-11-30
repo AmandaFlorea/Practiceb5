@@ -84,6 +84,10 @@ public class PracticeOne {
 	public static void random() {
 		System.out.println("random method");
 	}
+	
+	public static void shahid() {
+		System.out.println("random method 2");
+	}
 
 	
 

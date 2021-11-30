@@ -49,12 +49,13 @@ public class PracticeOne {
 	public static void addNumber(int a, int b) {
 		System.out.println(a + b);
 		// conflict please 
-<<<<<<< HEAD
 	
 		System.out.println("Trying to make a conflict");
-=======
+
 		// trying for conflict
->>>>>>> branch 'master' of https://github.com/AmandaFlorea/Practiceb5.git
+
+	
+		System.out.println("Trying to make a conflict");
 	}
 
 }

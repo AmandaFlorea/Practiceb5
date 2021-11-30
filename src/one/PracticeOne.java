@@ -6,7 +6,11 @@ public class PracticeOne {
 		
 		System.out.println("trying to find conflict");
 		System.out.println("Sajia");
+
 		System.out.println("this will be conflict");
+
+		System.out.println("thring to get conflict");
+
 	}
 	
 	public static void addNum(int a, int b) {
@@ -22,6 +26,8 @@ public class PracticeOne {
 
 		System.out.println("Waheeda");
 
+		
+		// want conflict for practice
 	}
 	
 
@@ -37,5 +43,8 @@ public class PracticeOne {
 	public static void multiply(int a, int b) {
 		System.out.println(a*b);
 		
+	}
+	public static void addNumber(int a, int b) {
+		System.out.println(a + b);
 	}
 }

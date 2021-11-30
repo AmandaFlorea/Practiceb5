@@ -33,4 +33,8 @@ public class PracticeOne {
 	public static void divNum(int a, int b) {
 		System.out.println(a / b);
 	}
+	//new add 
+	public static void mulNum(int a, int b, int c) {
+		System.out.println(a * b *c );
+	}
 }

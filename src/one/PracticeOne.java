@@ -59,21 +59,17 @@ public class PracticeOne {
 		// conflict please 
 		// trying for conflict
 		System.out.println(" More pratice to have conflict");
-
 	}
 
 		// trying for conflict
-
 	
 	   private void sysout() {
 		// TODO Auto-generated method stub
-
 	}
 
 	public static void addName(String name) {
 		System.out.println("Sajia Karim");
 		System.out.println("Hello from Mihail");
-		
 	}
 
 	

@@ -17,7 +17,8 @@ public class PracticeOne {
 		System.out.println(a + b);
 	}
 	public static void getPractice(String name) {
-		System.out.println("Fieruz");
+		System.out.println("Team Batch 5 -Fs");
+	
 		
 	}
 

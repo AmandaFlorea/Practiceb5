@@ -18,6 +18,12 @@ public class PracticeOne {
 		System.out.println("Waheeda");
 
 	}
+	
+
+	public static void getName(String name) {
+		name = "Amanda";
+		System.out.println(name);
+	}
 
 	public static void divNum(int a, int b) {
 		System.out.println(a / b);

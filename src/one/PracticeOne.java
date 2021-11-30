@@ -60,6 +60,10 @@ public class PracticeOne {
 	}
 
 		System.out.println("this gonna break the project");
+	   private void sysout() {
+		// TODO Auto-generated method stub
+
+	}
 
 	}
 }

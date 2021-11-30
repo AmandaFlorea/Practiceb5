@@ -70,6 +70,8 @@ public class PracticeOne {
 	public static void addName(String name) {
 		System.out.println("Sajia Karim");
 		System.out.println("Hello from Mihail");
+	int numOne = 22;
+	int numTwo = 11;
 	}
 
 	

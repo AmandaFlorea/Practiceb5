@@ -57,6 +57,10 @@ public class PracticeOne {
 	public static void addNumber(int a, int b) {
 		System.out.println(a + b);
 		System.out.println("this gonna break the project");
+
+		System.out.println("we are going to break the code again");
+		System.out.println("this is going to break again");
+
 	}
 	
 }

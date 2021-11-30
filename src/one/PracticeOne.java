@@ -16,7 +16,10 @@ public class PracticeOne {
 		System.out.println(a - b);
 
 		System.out.println("Waheeda");
-		
+
 	}
 
+	public static void divNum(int a, int b) {
+		System.out.println(a / b);
+	}
 }

@@ -10,6 +10,10 @@ public class PracticeOne {
 		System.out.println("this will be conflict");
 
 		System.out.println("thring to get conflict");
+		
+		addNum(15,20);
+		subNum(50,30);
+		modNum(60,2);
 
 	}
 	
@@ -17,7 +21,10 @@ public class PracticeOne {
 		System.out.println(a + b);
 	}
 	public static void getPractice(String name) {
-		System.out.println("Fieruz");
+		System.out.println("Team Batch 5 praticing Fieruz ");
+	}
+	public static void modNum(int a, int b) {
+		System.out.println(a % b);
 		
 	}
 
@@ -70,6 +77,17 @@ public class PracticeOne {
 	public static void addName(String name) {
 		System.out.println("Sajia Karim");
 		System.out.println("Hello from Mihail");
+	int numOne = 22;
+	int numTwo = 11;
+	}
+	
+	public static void random() {
+		System.out.println("random method");
+	String name = "any";
+	}
+	
+	public static void shahid() {
+		System.out.println("random method 2");
 	}
 	public static void addab(int a, int b) {
 		System.out.println(a+b);

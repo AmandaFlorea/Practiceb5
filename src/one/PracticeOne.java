@@ -5,6 +5,7 @@ public class PracticeOne {
 		System.out.println("Amanda");
 		
 		System.out.println("trying to find conflict");
+		System.out.println("Sajia");
 	}
 	
 	public static void addNum(int a, int b) {

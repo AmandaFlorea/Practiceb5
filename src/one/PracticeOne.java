@@ -81,6 +81,7 @@ public class PracticeOne {
 	
 	public static void random() {
 		System.out.println("random method");
+	String name = "any";
 	}
 
 	
